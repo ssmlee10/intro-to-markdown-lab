@@ -14,14 +14,11 @@ const functionName = (params) => {
 
 - **const**: const should be used whenever a function expression is assigned to a variable.
 The function name: The name you choose for the function.
-
 - **Parameters**: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
-
 - **The arrow syntax**: Indicates that this will be a function.
-
 - **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
-Example:
+_Example:_
 
 ```
 const greet = (name) => {
@@ -35,7 +32,7 @@ const greet = (name) => {
 
 To execute the function, you _call_ or _invoke_ it by using its name followed by parentheses.
 
-Example:
+_Example:_
 
 ```
 greet('Alice'); // Outputs: Hello, Alice!
@@ -45,7 +42,7 @@ greet('Alice'); // Outputs: Hello, Alice!
 
 Functions can process data input and output a value using the _return_ keyword.
 
-***Example***: 
+_Example:_ 
 
 ```
 const addNums = (numA, numB) => {
