@@ -1,5 +1,6 @@
 # The Terminal: A Powerful Tool
 
+![computer screen with code](https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?q=80&w=2532&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 The terminal is a great tool that can help users quickly navigate through many tasks. It has many functions such as creating new files, deleting, renaming and more.
 
 **Functions of the Terminal:**
